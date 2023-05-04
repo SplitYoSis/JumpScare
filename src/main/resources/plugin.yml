@@ -1,0 +1,4 @@
+name: JumpScare
+version: '${project.version}'
+main: com.octanepvp.splityosis.jumpscare.JumpScare
+api-version: 1.19
